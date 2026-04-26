@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- Visitor Count Badge -->
-  <img src="https://komarev.com/ghpvc/?username=pratikjaiswal6200&color=00FF99&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nimishkumar9155-lgtm&color=00FF99&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br/>
@@ -34,7 +34,7 @@
 ## 🏆 GitHub Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pratikjaiswal6200&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nimishkumar9155-lgtm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </div>
 
@@ -89,12 +89,12 @@
 ## 📈 GitHub Analytics & Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikjaiswal6200&theme=tokyo-night&hide_border=true&color=00FF99" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimishkumar9155-lgtm&theme=tokyo-night&hide_border=true&color=00FF99" alt="Activity Graph" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikjaiswal6200&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF99" height="195" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikjaiswal6200&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF99" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nimishkumar9155-lgtm&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF99" height="195" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimishkumar9155-lgtm&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF99" height="195" alt="Top Languages" />
 </div>
 
 <br/>
